@@ -1,0 +1,14 @@
+.animal-button {
+
+}
+
+.animal-card {
+    width: 200px;
+    height: 250px;
+    display: inline-block;
+}
+
+.animal-image {
+    width: 200px;
+    height: 200px;
+}
